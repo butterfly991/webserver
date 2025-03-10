@@ -1,3 +1,0 @@
-/home/butterfly/prodgects/ProgectsC++/webserver(github)version_1/build/CMakeFiles/ServerProject.dir
-/home/butterfly/prodgects/ProgectsC++/webserver(github)version_1/build/CMakeFiles/edit_cache.dir
-/home/butterfly/prodgects/ProgectsC++/webserver(github)version_1/build/CMakeFiles/rebuild_cache.dir
